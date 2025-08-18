@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Ishan0803">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=1a73e8&center=true&vCenter=true&width=650&lines=Quant+Researcher+in+the+Making;Competitive+Programmer+%7C+Systems+Learner;Machine+Learning+Enthusiast;Always+Building+%26+Learning" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=1a73e8&center=true&vCenter=true&width=650&lines=Competitive+Programmer;Systems+%26+ML+Learner;Always+Grinding+Codeforces;Loves+Building+%26+Learning" />
   </a>
 </p>
 
@@ -14,11 +14,19 @@
 
 ## 🌟 About Me  
 
-- 🎓 **Second-year undergrad** at VIT Pune  
-- 📈 Aspiring **Quant Researcher & HFT Systems Engineer**  
-- 🤖 Enthusiast in **Machine Learning, Competitive Programming, and Low-level Systems**  
-- 🧮 Daily blend of **Math • CP • Systems • ML**  
-- 🏋️ Fitness + discipline focused (Gym + Swimming + Journaling)  
+- 🎓 **Third-year undergrad** at VIT Pune  
+- 🏆 **Competitive Programmer**, active on **Codeforces**  
+- ⚡ Passionate about **C++ • DSA • Algorithms • Systems**  
+- 🤖 Also exploring **Machine Learning projects**  
+- 🎧 Big fan of **lofi coding vibes** while grinding problems  
+
+---
+
+## 🎨 Coding Vibes  
+
+<p align="center">
+  <img src="https://i.imgur.com/w1aJ7ap.png" width="600" alt="Lofi Coding Kid" />
+</p>
 
 ---
 
@@ -31,7 +39,7 @@
   <a href="https://codeforces.com/profile/ishan_0803_">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="mailto:iagrawal9990@gmail.com">
+  <a href="mailto:ishan@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -41,8 +49,21 @@
 ## ⚡ Tech & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,docker,java,mysql,vscode,tensorflow,pytorch&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,java,mysql,vscode,tensorflow,pytorch,docker&perline=6" />
 </p>
+
+---
+
+## 🚀 Competitive Programming  
+
+<p align="center">
+  <img src="https://cp-logo.vercel.app/codeforces/ishan_0803_" alt="Codeforces rating" />
+</p>
+
+- 🔥 Active on **Codeforces (Div. 3 → pushing higher)**  
+- 📚 Grinding through **CSES + Competitive Programmer’s Handbook**  
+- ✅ 100+ problems solved across multiple platforms  
+- 💡 Learning by **doing & analyzing editorials**  
 
 ---
 
@@ -59,38 +80,14 @@
 
 ---
 
-## 🚀 Competitive Programming  
-
-<p align="center">
-  <img src="https://cp-logo.vercel.app/codeforces/ishan_0803_" alt="Codeforces rating" />
-</p>
-
-- 🔥 Active on **Codeforces** (Div. 3 + climbing)  
-- 📚 Grinding through **CSES + Competitive Programmer’s Handbook**  
-- ✅ Solved 100+ problems across platforms  
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishan0803&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ishan0803/Ishan0803/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🎨 Aesthetic Touches  
+## 🎧 Aesthetic Extras  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/hq8Qn6R.gif" width="500" alt="Coding Lofi" />
 </p>
 
 ---
