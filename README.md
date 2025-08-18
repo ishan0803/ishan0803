@@ -6,19 +6,19 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Ishan0803">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=1a73e8&width=600&lines=Quant+Researcher+in+the+Making;Competitive+Programmer+%7C+Systems+Learner;Machine+Learning+Enthusiast;Always+Building+%26+Learning" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=1a73e8&center=true&vCenter=true&width=650&lines=Quant+Researcher+in+the+Making;Competitive+Programmer+%7C+Systems+Learner;Machine+Learning+Enthusiast;Always+Building+%26+Learning" />
   </a>
 </p>
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me  
 
-- 🎓 Second-year undergrad at **VIT Pune**  
-- 📈 Aspiring **Quant Researcher + HFT Systems Engineer**  
-- 🤖 Passionate about **ML, Competitive Programming, and Low-level Systems**  
-- 🧮 Daily mix of **Math, CP, and System Design**  
-- 🏋️ Fitness + discipline driven (gym + swimming)  
+- 🎓 **Second-year undergrad** at VIT Pune  
+- 📈 Aspiring **Quant Researcher & HFT Systems Engineer**  
+- 🤖 Enthusiast in **Machine Learning, Competitive Programming, and Low-level Systems**  
+- 🧮 Daily blend of **Math • CP • Systems • ML**  
+- 🏋️ Fitness + discipline focused (Gym + Swimming + Journaling)  
 
 ---
 
@@ -31,25 +31,29 @@
   <a href="https://codeforces.com/profile/ishan_0803_">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="mailto:ishan@example.com">
+  <a href="mailto:iagrawal9990@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚡ Tech & Tools
+## ⚡ Tech & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,tensorflow,pytorch,git,linux,github,vscode,c,java,mysql,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,docker,java,mysql,vscode,tensorflow,pytorch&perline=6" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishan0803&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan0803&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan0803&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
@@ -61,9 +65,9 @@
   <img src="https://cp-logo.vercel.app/codeforces/ishan_0803_" alt="Codeforces rating" />
 </p>
 
-- 🔥 Active on **Codeforces** (Div. 3 + improving)  
-- ✅ Currently grinding through **CSES + CPH roadmap**  
-- 📚 Solved 100+ problems on multiple platforms  
+- 🔥 Active on **Codeforces** (Div. 3 + climbing)  
+- 📚 Grinding through **CSES + Competitive Programmer’s Handbook**  
+- ✅ Solved 100+ problems across platforms  
 
 ---
 
@@ -83,12 +87,15 @@
 
 ---
 
-## 🎯 Roadmap
+## 🎨 Aesthetic Touches  
 
-```mermaid
-graph TD
-  A[Competitive Programming] -->|CSES + Codeforces| B[DSA + Algorithms]
-  B --> C[Quant Math: LA, Calc, Stats]
-  C --> D[Systems: OS, TCP/IP, C++]
-  D --> E[Machine Learning: Theory + Projects]
-  E --> F[Quant Research & HFT]
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d58,100:1a73e8&height=120&section=footer" />
+</p>
