@@ -22,14 +22,6 @@
 
 ---
 
-## 🎨 Coding Vibes  
-
-<p align="center">
-  <img src="https://i.imgur.com/w1aJ7ap.png" width="600" alt="Lofi Coding Kid" />
-</p>
-
----
-
 ## 🔗 Connect with Me  
 
 <p align="center">
@@ -84,10 +76,6 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/hq8Qn6R.gif" width="500" alt="Coding Lofi" />
 </p>
 
 ---
