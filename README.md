@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishanagrawal&style=flat&color=2F80ED" />
+  <img src="https://komarev.com/ghpvc/?username=ishan0803&style=flat&color=2F80ED" />
 </p>
 
 ---
@@ -37,51 +37,26 @@ and improving them using **measurement, profiling, and careful design**.
 
 ## 🏎 Competitive Programming
 
-I use competitive programming to sharpen **implementation accuracy, algorithmic thinking, and speed**.
+I use competitive programming to improve **implementation accuracy, algorithmic thinking, and speed**.
 
 <p align="center">
-  <a href="https://codeforces.com/profile/YOUR_CF_HANDLE">
+  <a href="https://codeforces.com/profile/ishan_0803_">
     <img src="https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces" />
     <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Rating&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=YOUR_CF_HANDLE" />
   </a>
 </p>
 
-> Handle: `YOUR_CF_HANDLE`
+> Handle: `ishan_0803_`
 
 ---
 
-## 🛠 How I Contribute
+## 📌 What I’m Working On
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Approach-Measurement%20Driven-blue" />
-  <img src="https://img.shields.io/badge/PRs-Small%20%26%20Reviewable-green" />
-  <img src="https://img.shields.io/badge/Focus-Correctness%20%7C%20Performance-orange" />
-</p>
+- Building small, focused **C++ projects** to explore concurrency, memory, and performance
+- Studying OS and networking internals by **reading source code and writing experiments**
+- Practicing competitive programming to improve **speed and correctness**
 
-When working on codebases (coursework, personal projects, or open-source), I usually:
-1. **Understand the system** and its invariants  
-2. **Measure** (profiling, benchmarks, tracing)  
-3. Identify bottlenecks or correctness issues worth fixing  
-4. Make **small, reviewable improvements**  
-5. Validate changes with data  
-
-I value clarity, correctness, and maintainability over cleverness.
-
----
-
-## 📚 Current Learning Track
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-OSTEP-blue" />
-  <img src="https://img.shields.io/badge/Networking-TCP%2FIP%20Illustrated-orange" />
-  <img src="https://img.shields.io/badge/C++-Concurrency%20%26%20Modern%20C%2B%2B-green" />
-  <img src="https://img.shields.io/badge/Focus-Performance%20Engineering-red" />
-</p>
-
-- Operating Systems (OSTEP)
-- Computer Networks (TCP/IP Illustrated)
-- Modern C++ & concurrency
-- Performance engineering and low-level debugging
+Pinned repositories reflect this work.
 
 ---
 
@@ -93,14 +68,14 @@ I’m interested in contributing to:
 - Performance-sensitive C++ codebases
 - Tooling, benchmarks, and profiling infrastructure
 
-If you maintain a systems-heavy project and need help with **instrumentation, performance analysis, or core logic**, I’d be happy to contribute.
+Open to beginner-friendly issues and performance-oriented contributions in systems projects.
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/ishanagrawal
-- LinkedIn: *(optional)*
+- GitHub: https://github.com/ishan0803
+- LinkedIn: https://www.linkedin.com/in/ishan-agrawal0803/
 
 ---
 
