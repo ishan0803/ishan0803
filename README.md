@@ -42,7 +42,7 @@ I use competitive programming to improve **implementation accuracy, algorithmic 
 <p align="center">
   <a href="https://codeforces.com/profile/ishan_0803_">
     <img src="https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces" />
-    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Rating&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=YOUR_CF_HANDLE" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Rating&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=ishan_0803_" />
   </a>
 </p>
 
